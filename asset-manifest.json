@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/valintinday/static/css/main.ef140cf2.css",
+    "main.css": "/valintinday/static/css/main.f0fa01a8.css",
     "main.js": "/valintinday/static/js/main.1ef61e0e.js",
     "static/js/592.2616f211.chunk.js": "/valintinday/static/js/592.2616f211.chunk.js",
     "static/media/fon.gif": "/valintinday/static/media/fon.f125375b2d8be8527e02.gif",
@@ -8,12 +8,12 @@
     "static/media/bear.gif": "/valintinday/static/media/bear.5901b1569e534f728ab9.gif",
     "static/media/Billabong Cyr.ttf": "/valintinday/static/media/Billabong Cyr.abe62e2e5b392a89f136.ttf",
     "index.html": "/valintinday/index.html",
-    "main.ef140cf2.css.map": "/valintinday/static/css/main.ef140cf2.css.map",
+    "main.f0fa01a8.css.map": "/valintinday/static/css/main.f0fa01a8.css.map",
     "main.1ef61e0e.js.map": "/valintinday/static/js/main.1ef61e0e.js.map",
     "592.2616f211.chunk.js.map": "/valintinday/static/js/592.2616f211.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef140cf2.css",
+    "static/css/main.f0fa01a8.css",
     "static/js/main.1ef61e0e.js"
   ]
 }
